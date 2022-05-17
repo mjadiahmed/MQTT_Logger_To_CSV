@@ -29,7 +29,7 @@ data = {}
 # Broker_Topic = "NXTBLE/devices/+/telemetry"
 # data = {}
 
-
+   
 
 # Functions
 
