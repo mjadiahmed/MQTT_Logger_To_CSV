@@ -7,7 +7,7 @@ import csv
 from datetime import datetime
 
 
-
+  
 #Variables
 	#CSV Variables
 header = ['time','scan_time', 'anchor_id', 'tag_id', 'Temperature', 'Humidity', 'rssi']
